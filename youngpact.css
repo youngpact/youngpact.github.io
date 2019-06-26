@@ -23,7 +23,7 @@ body {
 	border-radius: 30px;
 	background: url(https://www.helsinki.fi/sites/default/files/thumbnails/image/study_in_helsinki.jpg) no-repeat center center;
 	margin: 70px 5px 0px 5px;
-	padding: 150px;
+	padding: 150px 50px 150px 50px;
 }
 .jumbotron h1 {
 	color: #ffffff;
