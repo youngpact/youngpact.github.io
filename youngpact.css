@@ -22,6 +22,7 @@ body {
 #jum {
 	border-radius: 30px;
 	background: URL("https://cdn.pixabay.com/photo/2016/12/07/23/25/panorama-of-helsinki-1890633_960_720.jpg") no-repeat center center;
+	background-size: cover;
 	margin: 70px 5px 0px 5px;
 	padding: 150px 50px 150px 50px;
 }
