@@ -21,7 +21,7 @@ body {
 }
 #jum {
 	border-radius: 30px;
-	background: IMG_20190624_195207.jpg no-repeat center center;
+	background: URL(IMG_20190624_195207.jpg) no-repeat center center;
 	margin: 70px 5px 0px 5px;
 	padding: 150px 50px 150px 50px;
 }
